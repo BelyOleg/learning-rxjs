@@ -28,5 +28,8 @@
     "webpack": "^4.15.1",
     "webpack-cli": "^3.0.8"
   },
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "rxjs": "^6.2.2"
+  }
 }
